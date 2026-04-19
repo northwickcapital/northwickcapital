@@ -16,7 +16,7 @@
 title: Northwick Capital
 email: contact@northwickcapital.se
 description: >- # this means to ignore newlines until "baseurl:"
-  An inarguably well-designed Jekyll theme.
+  Northwick Capital AB is a private investment company that owns and manages a diversified portfolio of operating companies, intellectual property, and real assets.
 baseurl: "/northwickcapital" # the subpath of your site, e.g. /blog
 url: "https://northwickcapital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
